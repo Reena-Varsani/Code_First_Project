@@ -87,3 +87,17 @@
     font-size: 13px;
     margin-bottom: 0
 }
+body {
+    padding: 60px;
+  }
+  button {
+    margin-top: 20px;
+    line-height: 60px;
+    font-weight: bold;
+    padding: 0 40px;
+    background: rgb(250, 114, 232);
+    border: none;
+  }
+  button:hover {
+    background: rgb(255, 122, 222);
+  }
