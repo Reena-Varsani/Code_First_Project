@@ -54,9 +54,9 @@ body {
     line-height: 60px;
     font-weight: bold;
     padding: 0 40px;
-    background: rgb(250, 114, 232);
+    background: rgb(158, 4, 138);
     border: none;
   }
   button:hover {
-    background: rgb(255, 122, 222);
+    background: rgb(10, 0, 8);
   }
