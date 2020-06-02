@@ -32,7 +32,7 @@
     display: inline-block;
     text-align: center;
     border-radius: 50%;
-    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 0 1px rgba(36, 35, 35, 0.4);
     margin: 0 8px;
     color: #fff;
     opacity: 0.75
@@ -50,13 +50,14 @@ body {
     padding: 60px;
   }
   button {
+    color: white;  
     margin-top: 20px;
     line-height: 60px;
     font-weight: bold;
-    padding: 0 40px;
-    background: rgb(158, 4, 138);
+    padding: 0 510px;
+    background: rgb(48, 43, 47);
     border: none;
   }
   button:hover {
-    background: rgb(10, 0, 8);
+    background: rgb(32, 29, 32);
   }
