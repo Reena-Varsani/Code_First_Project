@@ -11,7 +11,3 @@ button.addEventListener ("click", function() {
   alert("Are you sure?");
 });
 
-/* Read 
-
-https://css-tricks.com/use-button-element/
-*/
